@@ -1,0 +1,6 @@
+{
+  "name": "Fireland: Borneo Forest Rescue",
+  "description": "2D top-down simulation game of firefighting, base building, and endangered wildlife rescue in the tropical rainforests of Borneo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Fireland: Borneo Forest Rescue</string>
+    <string name="title_activity_main">Fireland: Borneo Forest Rescue</string>
+    <string name="package_name">com.fireland.borneorescue</string>
+    <string name="custom_url_scheme">com.fireland.borneorescue</string>
+</resources>
